@@ -1,0 +1,21 @@
+.first{
+    display: flex;
+}
+#guess{
+    margin-top: 15px;
+    height: 15px;
+    width: 250px;
+}
+#sbmt{
+    border: 2px solid red;
+    margin-top: 15px;
+    height: 20px;
+    width: 80px;
+}
+#result{
+    margin-top: 15px;
+    margin-left: 5px;
+    height: 15px;
+    width: 250px;
+    /* border: 2px solid black; */
+}
